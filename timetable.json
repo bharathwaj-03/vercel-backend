@@ -1,0 +1,3590 @@
+[
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-04-21",
+    "day": "Monday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-04-22",
+    "day": "Tuesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-04-23",
+    "day": "Wednesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-04-24",
+    "day": "Thursday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-04-25",
+    "day": "Friday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-04-26",
+    "day": "Saturday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-04-27",
+    "day": "Sunday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-04-28",
+    "day": "Monday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-04-29",
+    "day": "Tuesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-04-30",
+    "day": "Wednesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-01",
+    "day": "Thursday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-02",
+    "day": "Friday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-03",
+    "day": "Saturday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-04",
+    "day": "Sunday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-05",
+    "day": "Monday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-06",
+    "day": "Tuesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-07",
+    "day": "Wednesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-08",
+    "day": "Thursday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-09",
+    "day": "Friday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-10",
+    "day": "Saturday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-11",
+    "day": "Sunday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-12",
+    "day": "Monday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-13",
+    "day": "Tuesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-14",
+    "day": "Wednesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-15",
+    "day": "Thursday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-16",
+    "day": "Friday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-17",
+    "day": "Saturday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-18",
+    "day": "Sunday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-19",
+    "day": "Monday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-20",
+    "day": "Tuesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-21",
+    "day": "Wednesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-22",
+    "day": "Thursday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-23",
+    "day": "Friday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-24",
+    "day": "Saturday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-25",
+    "day": "Sunday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-26",
+    "day": "Monday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-27",
+    "day": "Tuesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-28",
+    "day": "Wednesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-29",
+    "day": "Thursday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-30",
+    "day": "Friday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-05-31",
+    "day": "Saturday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-01",
+    "day": "Sunday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-02",
+    "day": "Monday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-03",
+    "day": "Tuesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-04",
+    "day": "Wednesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-05",
+    "day": "Thursday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-06",
+    "day": "Friday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-07",
+    "day": "Saturday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-08",
+    "day": "Sunday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-09",
+    "day": "Monday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-10",
+    "day": "Tuesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-11",
+    "day": "Wednesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-12",
+    "day": "Thursday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-13",
+    "day": "Friday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-14",
+    "day": "Saturday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-15",
+    "day": "Sunday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": null,
+        "staffId": null
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": null,
+        "staffId": null
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-16",
+    "day": "Monday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-17",
+    "day": "Tuesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Front End Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Cloud Computing"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-18",
+    "day": "Wednesday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Optimization Techniques"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      }
+    ]
+  },
+  {
+    "time": "9:00am-9:50am to 2:30pm-3:20pm",
+    "date": "2025-06-19",
+    "day": "Thursday",
+    "periods": [
+      {
+        "time": "9:00am-9:50am",
+        "subject": [
+          "Java Full Stack"
+        ],
+        "staffId": "presi002"
+      },
+      {
+        "time": "9:55am-10:45am",
+        "subject": [
+          "Free"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:45am-10:55am",
+        "subject": [
+          "Break"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "10:55am-11:45am",
+        "subject": [
+          "Data Visualisation"
+        ],
+        "staffId": "presi004"
+      },
+      {
+        "time": "11:55am-12:45pm",
+        "subject": [
+          "Deep Learning"
+        ],
+        "staffId": "presi005"
+      },
+      {
+        "time": "12:45pm-1:35pm",
+        "subject": [
+          "Lunch"
+        ],
+        "staffId": null
+      },
+      {
+        "time": "1:35pm-2:25pm",
+        "subject": [
+          "Python"
+        ],
+        "staffId": "presi001"
+      },
+      {
+        "time": "2:30pm-3:20pm",
+        "subject": [
+          "Compiler Design"
+        ],
+        "staffId": "presi003"
+      }
+    ]
+  }
+]
